@@ -2,5 +2,5 @@
   "updated_utc": "2026-11-21",
   "champion": null,
   "competitors": [],
-  "nota": "Sin ideas nuevas en ideas/ (solo .gitkeep); nada que backtestear. Campeón null: ninguna estrategia cumple los criterios (min_trades_to_crown=50)."
+  "nota": "JUDGE 2026-11-21: ideas/2026-11-21T0312Z.md es un informe 'SIN IDEAS NUEVAS' (fuentes bloqueadas por proxy 403), no una idea backtesteable. Sin datos reales no se hace backtest ni se crea backtests/<id>.md. Campeón null (min_trades_to_crown=50 no alcanzado por ninguna)."
 }
