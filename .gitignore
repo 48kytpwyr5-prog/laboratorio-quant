@@ -1,0 +1,5 @@
+state/*.tmp
+.env
+.agentic-qe/
+.claude-flow/
+.swarm/

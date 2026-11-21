@@ -1,0 +1,16 @@
+{
+  "mode": "paper_only",
+  "account_usd": 250,
+  "risk_per_trade_usd": 7,
+  "risk_officer": {
+    "daily_stop_usd": 15,
+    "daily_stop_pct": 6,
+    "max_consecutive_losses": 3,
+    "stale_feed_minutes": 30
+  },
+  "min_trades_to_crown": 50,
+  "fees_multiplier_stress": 2,
+  "active_strategy": null,
+  "markets": ["crypto", "us_stocks_etf"],
+  "sources": ["Binance public klines", "Yahoo Finance chart", "Stooq"]
+}
