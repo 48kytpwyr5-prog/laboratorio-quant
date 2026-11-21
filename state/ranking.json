@@ -2,5 +2,5 @@
   "updated_utc": "2026-11-21",
   "champion": null,
   "competitors": [],
-  "nota": "JUDGE 2026-11-21 (5ª ejecución): ideas/ solo contiene informes 'SIN IDEAS NUEVAS' (0312Z, 0512Z, 0611Z, 0711Z, 0811Z): 0 ideas backtesteables. Reintento de data-api.binance.vision, query1.finance.yahoo.com y stooq.com: proxy 403 en las tres. Sin datos reales no se hace backtest ni se crea backtests/<id>.md. Campeón null (min_trades_to_crown=50 no alcanzado por ninguna)."
+  "nota": "JUDGE 2026-11-21 (6ª ejecución): ideas/ solo contiene informes 'SIN IDEAS NUEVAS' (0312Z, 0512Z, 0611Z, 0711Z, 0811Z, 0912Z): 0 ideas backtesteables. Reintento de data-api.binance.vision, query1.finance.yahoo.com y stooq.com: proxy 403 en las tres. Sin datos reales no se hace backtest ni se crea backtests/<id>.md. Campeón null (min_trades_to_crown=50 no alcanzado por ninguna)."
 }
